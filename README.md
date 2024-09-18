@@ -8,10 +8,6 @@
   <img height="150" src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif"  />
 </div>
 
-###
-
-<img align="center" src="Gojo.gif" alt="sagargoswami2001" />
-
 I am a beginner and intermediate level developer in the Java language, I create applications for Android and just create what I like, that is, plugins and modifications for Minecraft.
 
 <img src="BorderSeparator.gif" width="100%"/>
