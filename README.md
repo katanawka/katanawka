@@ -11,9 +11,7 @@ I am a beginner and intermediate level developer in the Java language, I create 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
 </div>
 
 ## 💻 IDE & Editors:
@@ -25,6 +23,18 @@ I am a beginner and intermediate level developer in the Java language, I create 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
 </div>
+
+## ⚙️ Tools & Others:
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+</div>
+
+<img src="Border-Separator.gif" width="100%"/>
 
 ### 🗡️ Stats
 
