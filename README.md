@@ -37,8 +37,7 @@ I am a beginner and intermediate level developer in the Java language, I create 
 <img src="Border-Separator.gif" width="100%"/>
 
 ## 🗡️ Stats
-<div align="center">
-![Katanawka's GitHub stats](https://github-readme-stats.vercel.app/api?username=katanawka&theme=radical&show_icons=true)
-</div>
 
-###
+![Katanawka's GitHub stats](https://github-readme-stats.vercel.app/api?username=katanawka&theme=radical&show_icons=true)
+
+
