@@ -4,7 +4,7 @@
 
 I am a beginner and intermediate level developer in the Java language, I create applications for Android and just create what I like, that is, plugins and modifications for Minecraft.
 
-<img src="Border-Separator.gif" width="100%"/>
+<img src="BorderSeparator.gif" width="100%"/>
 
 ## 🧑‍💻 Languages
 
@@ -34,7 +34,7 @@ I am a beginner and intermediate level developer in the Java language, I create 
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
 </div>
 
-<img src="Border-Separator.gif" width="100%"/>
+<img src="BorderSeparator.gif" width="100%"/>
 
 ## 🗡️ Stats
 
