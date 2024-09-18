@@ -4,7 +4,7 @@
 
 I am a beginner and intermediate level developer in the Java language, I create applications for Android and just create what I like, that is, plugins and modifications for Minecraft.
 
----
+<img src="Border-Separator.gif" width="100%"/>
 
 ### 🗡️ Languages and Tools
 
@@ -15,7 +15,7 @@ I am a beginner and intermediate level developer in the Java language, I create 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
----
+<img src="Border-Separator.gif" width="100%"/>
 
 ### 🗡️ Stats
 
