@@ -45,5 +45,3 @@ I am a beginner and intermediate level developer in the Java language, I create 
 <img src="BorderSeparator.gif" width="100%"/>
 
 ![Katanawka's GitHub stats](https://github-readme-stats.vercel.app/api?username=katanawka&theme=dark&show_icons=true)
-
-
