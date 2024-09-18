@@ -8,11 +8,13 @@
   <img height="150" src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif"  />
 </div>
 
+###
+
 I am a beginner and intermediate level developer in the Java language, I create applications for Android and just create what I like, that is, plugins and modifications for Minecraft.
 
 <img src="BorderSeparator.gif" width="100%"/>
 
-## 🧑‍💻 Languages
+## 🧑‍💻 Languages:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -41,8 +43,6 @@ I am a beginner and intermediate level developer in the Java language, I create 
 </div>
 
 <img src="BorderSeparator.gif" width="100%"/>
-
-## 🗡️ Stats
 
 ![Katanawka's GitHub stats](https://github-readme-stats.vercel.app/api?username=katanawka&theme=dark&show_icons=true)
 
