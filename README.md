@@ -2,7 +2,7 @@
 
 **`Katanawka (Developer/Android/Oracle)`**
 
-<p align="center"><img align="center" src="code.gif" alt="sagargoswami2001" /></p>
+<p align="center"><img align="center" src="gojo.gif" alt="sagargoswami2001" /></p>
 <p align="center">
 
 I am a beginner and intermediate level developer in the Java language, I create applications for Android and just create what I like, that is, plugins and modifications for Minecraft.
