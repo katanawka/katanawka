@@ -2,6 +2,14 @@
 
 **`Katanawka (Developer/Android/Oracle)`**
 
+<img align="right" height="150" src="https://media1.tenor.com/m/qpTEaB-0iW8AAAAC/satoru-gojo-gojo-satoru.gif"  />
+<img align="left" height="150" src="https://media1.tenor.com/m/zZOt7alSzAMAAAAd/gojo-gojo-satoru.gif"  />
+<div align="center">
+  <img height="150" src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif"  />
+</div>
+
+###
+
 <img align="center" src="Gojo.gif" alt="sagargoswami2001" />
 
 I am a beginner and intermediate level developer in the Java language, I create applications for Android and just create what I like, that is, plugins and modifications for Minecraft.
