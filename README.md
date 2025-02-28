@@ -12,6 +12,8 @@
 
 Android developer from Ukraine. For more than 3 years I have been creating mobile applications on the Android platform. I specialize in the development of user interfaces. I have experience with Java and Kotlin, as well as with Android Studio tools. I constantly follow the latest trends in the world of Android development and strive to create high-quality and intuitive applications. I also create various plugins and modifications for servers and builds on Forge and Fabric
 
+**LeetCode:** https://leetcode.com/u/katanawka/
+
 <img src="BorderSeparator.gif" width="100%"/>
 
 ## 🧑‍💻 Languages:
