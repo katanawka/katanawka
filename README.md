@@ -1,13 +1,5 @@
 # Katanawka project
 
-<img align="right" height="150" src="https://media1.tenor.com/m/qpTEaB-0iW8AAAAC/satoru-gojo-gojo-satoru.gif"  />
-<img align="left" height="150" src="https://media1.tenor.com/m/zZOt7alSzAMAAAAd/gojo-gojo-satoru.gif"  />
-<div align="center">
-  <img height="150" src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif"  />
-</div>
-
-###
-
 Android developer from Ukraine. For more than 3 years I have been creating mobile applications on the Android platform. I specialize in the development of user interfaces. I have experience with Java and Kotlin, as well as with Android Studio tools. I constantly follow the latest trends in the world of Android development and strive to create high-quality and intuitive applications. I also create various plugins and modifications for servers and builds on Forge and Fabric
 
 <img src="BorderSeparator.gif" width="100%"/>
