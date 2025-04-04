@@ -1,6 +1,9 @@
 # Katanawka project
 
-Android developer from Ukraine. For more than 3 years I have been creating mobile applications on the Android platform. I specialize in the development of user interfaces. I have experience with Java and Kotlin, as well as with Android Studio tools. I constantly follow the latest trends in the world of Android development and strive to create high-quality and intuitive applications. I also create various plugins and modifications for servers and builds on Forge and Fabric
+###
+
+I'm Vadim — an 18-year-old developer passionate about building modern web and mobile applications.
+I specialize in developing websites using React and TypeScript, and I also create mobile apps with Kotlin and Java.
 
 <img src="BorderSeparator.gif" width="100%"/>
 
@@ -14,6 +17,8 @@ Android developer from Ukraine. For more than 3 years I have been creating mobil
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
