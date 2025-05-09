@@ -3,17 +3,13 @@
 ###
 
 I'm Vadim — an 18-year-old developer passionate about building modern web and mobile applications.
-I specialize in developing websites using React and TypeScript, and I also create mobile apps with Kotlin and Java.
+I specialize in developing websites using React and TypeScript.
 
 <img src="BorderSeparator.gif" width="100%"/>
 
 ## 🧑‍💻 Languages:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -32,7 +28,6 @@ I specialize in developing websites using React and TypeScript, and I also creat
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
 </div>
 
 ## ⚙️ Tools & Others:
