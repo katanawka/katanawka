@@ -1,4 +1,4 @@
-# Katanawka project
+# Katana project
 
 ###
 
